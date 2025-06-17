@@ -66,3 +66,20 @@ Fine-tuning teaches the model how to perform specific tasks (like writing poems,
 At inference time, we just ask the model to use what it knows — like a super-intelligent assistant.
 
 These models are built with billions of parameters and can generalize across domains (e.g., medicine, finance, or education).
+
+
+## Why It’s Exciting
+
+Real-time predictions: From generating summaries to answering complex questions, inference makes it all happen in milliseconds.
+
+Zero-shot & Few-shot learning: These models can perform tasks even without explicit training examples—just from understanding the prompt.
+
+Applications: Chatbots, code generation, sentiment analysis, and even medical diagnosis rely heavily on inference.
+
+
+
+
+
+
+
+

@@ -1,0 +1,13 @@
+{
+  "model_name": "microsoft/phi-3-mini-4k-instruct",
+  "device_map": "auto",
+  "torch_dtype": "float32",
+  "trust_remote_code": true,
+  "messages": "### Instruction:\nWhat is the difference between supervised and unsupervised learning?\n\n### Response:",
+  "generation_args": {
+    "max_new_tokens": 300,
+    "temperature": 0.7,
+    "top_p": 0.9,
+    "do_sample": true
+  }
+}
